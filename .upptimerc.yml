@@ -3,37 +3,37 @@ owner: mrbrant89 # Your GitHub organization or username, where this repository l
 repo: od1-monitoring # The name of this repository
 
 sites:
-  - name: Lyster Exteriors
+  - name: Lyster Exteriors [855lysters.com]
     url: https://855lysters.com
-  - name: Smith & Valentine Law
+  - name: Smith & Valentine Law [yourvoiceintrial.com]
     url: https://yourvoiceintrial.com
-  - name: Ackerman Insurance
+  - name: Ackerman Insurance [ackerman-insurance.com]
     url: https://ackerman-insurance.com
-  - name: Shine Smile
+  - name: Shine Smile [shinesmile.com]
     url: https://shinesmile.com
   - name: Spa (Shine Smile)
-    url: https://spa.shinesmile.com
-  - name: No Limit Contracting & Design
+    url: https://spa.shinesmile.com [spa.shinesmile.com]
+  - name: No Limit Contracting & Design [nolimitcontractinganddesign.com]
     url: https://nolimitcontractinganddesign.com
-  - name: Dependable LP Gas
-    url: https://www.dependablelpgas.com/
-  - name: Auto Lock Specialists LLC
+  - name: Dependable LP Gas [dependablelpgas.com]
+    url: https://www.dependablelpgas.com
+  - name: Auto Lock Specialists LLC [grandrapids-locksmith.com]
     url: https://grandrapids-locksmith.com
-  - name: Paul Blank Dental
+  - name: Paul Blank Dental [paulblank.dental]
     url: https://paulblank.dental
-  - name: Auto Lock Specialists
+  - name: Auto Lock Specialists [kalamazoo-locksmith.com]
     url: https://kalamazoo-locksmith.com
-  - name: Jot & Tittle Concrete
+  - name: Jot & Tittle Concrete [jotandtittleconcrete.com]
     url: https://jotandtittleconcrete.com
-  - name: Ravens Remodeling
+  - name: Ravens Remodeling [ravenremodelingoflansing.com]
     url: https://ravenremodelingoflansing.com
-  - name: Tier 1 Digital
+  - name: Tier 1 Digital [tier1digital.com]
     url: https://tier1digital.com
-  - name: A Bail Co
+  - name: A Bail Co [abailco.com]
     url: https://abailco.com
-  - name: Carlson Gracie Grand Rapids
+  - name: Carlson Gracie Grand Rapids [carlsongraciegrandrapids.com]
     url: https://carlsongraciegrandrapids.com
-  - name: Arctic Training Center
+  - name: Arctic Training Center [atcbjj.fitness]
     url: https://atcbjj.fitness
 
 status-website:
