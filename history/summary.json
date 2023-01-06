@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulblank.dental.ico",
     "slug": "paul-blank-dental-paulblank-dental",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 1483,
     "timeDay": 1483,
     "timeWeek": 1483,
     "timeMonth": 1483,
     "timeYear": 1483,
     "dailyMinutesDown": {
-      "2023-01-06": 12
+      "2023-01-06": 479
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://abailco.com",
     "icon": "https://icons.duckduckgo.com/ip3/abailco.com.ico",
     "slug": "a-bail-co-abailco-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-01-06": 36
+      "2023-01-06": 503
     }
   },
   {
