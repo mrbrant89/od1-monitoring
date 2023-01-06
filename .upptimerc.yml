@@ -35,6 +35,8 @@ sites:
     url: https://carlsongraciegrandrapids.com
   - name: Arctic Training Center [atcbjj.fitness]
     url: https://atcbjj.fitness
+  - name: 2 The Rescue [2therescuellc.com]
+    url: https://2therescuellc.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
