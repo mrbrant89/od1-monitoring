@@ -54,10 +54,10 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-notifications:
-  NOTIFICATION_SLACK: true
-  NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: SLACK_HOOK
+## Notifications
+NOTIFICATION_SLACK: true
+NOTIFICATION_SLACK_WEBHOOK: true
+NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.SLACK_HOOK }}
 
 assignees:
   - mrbrant89
