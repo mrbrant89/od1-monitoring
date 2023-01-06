@@ -1,31 +1,62 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mrbrant89 # Your GitHub organization or username, where this repository lives
+repo: od1-monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Lyster Exteriors
+    url: https://855lysters.com
+  - name: Smith & Valentine Law
+    url: https://yourvoiceintrial.com
+  - name: Ackerman Insurance
+    url: https://ackerman-insurance.com
+  - name: Shine Smile
+    url: https://shinesmile.com
+  - name: Spa (Shine Smile)
+    url: https://spa.shinesmile.com
+  - name: No Limit Contracting & Design
+    url: https://nolimitcontractinganddesign.com
+  - name: Dependable LP Gas
+    url: https://depenablelpgas.com
+  - name: Auto Lock Specialists LLC
+    url: https://grandrapids-locksmith.com
+  - name: Paul Blank Dental
+    url: https://paulblank.dental
+  - name: Auto Lock Specialists
+    url: https://kalamazoo-locksmith.com
+  - name: Jot & Tittle Concrete
+    url: https://jotandtittleconcrete.com
+  - name: Ravens Remodeling
+    url: https://ravenremodelingoflansing.com
+  - name: Tier 1 Digital
+    url: https://tier1digital.com
+  - name: A Bail Co
+    url: https://abailco.com
+  - name: Carlson Gracie Grand Rapids
+    url: https://carlsongraciegrandrapids.com
+  - name: Arctic Training Center
+    url: https://atcbjj.fitness
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: monitoring.tier1digital.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  logoUrl: https://tier1digital.com/wp-content/uploads/2021/06/Tier1Logo-200.png
+  name: OD1 Monitoring
+  introTitle: "**OD1 Monitoring**"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+notifications:
+  NOTIFICATION_SLACK: true
+  NOTIFICATION_SLACK_WEBHOOK: true
+  NOTIFICATION_SLACK_WEBHOOK_URL: SLACK_HOOK
+
+assignees:
+  - mrbrant89
+  - seoanimesh07
