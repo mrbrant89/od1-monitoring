@@ -39,6 +39,10 @@ sites:
     url: https://2therescuellc.com
   - name: Brendan Burch [brendanburch9.com]
     url: https://brendanburch9.com
+  - name: Kzoo BJJ [kzoobjj.net]
+    url: https://kzoobjj.net  
+
+    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
