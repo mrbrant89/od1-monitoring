@@ -119,9 +119,9 @@
     "url": "https://www.dependablelpgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dependablelpgas.com.ico",
     "slug": "dependable-lp-gas-dependablelpgas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 930,
     "timeMonth": 1143,
     "timeYear": 1143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "Auto Lock Specialists LLC [grandrapids-locksmith.com]",
