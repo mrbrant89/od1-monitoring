@@ -45,10 +45,10 @@
     "url": "https://ackerman-insurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/ackerman-insurance.com.ico",
     "slug": "ackerman-insurance-ackerman-insurance-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 741,
@@ -56,7 +56,9 @@
     "timeWeek": 789,
     "timeMonth": 854,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "Shine Smile [shinesmile.com]",
@@ -261,11 +263,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/abailco.com.ico",
     "slug": "a-bail-co-abailco-com",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.59%",
     "time": 1328,
     "timeDay": 1857,
     "timeWeek": 1499,
@@ -320,9 +322,9 @@
     "url": "https://2therescuellc.com",
     "icon": "https://icons.duckduckgo.com/ip3/2therescuellc.com.ico",
     "slug": "2-the-rescue-2therescuellc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -332,6 +334,7 @@
     "timeMonth": 1006,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2023-02-23": 0,
       "2023-01-12": 19
     }
   },
