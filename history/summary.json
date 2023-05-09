@@ -72,9 +72,9 @@
     "url": "https://shinesmile.com",
     "icon": "https://icons.duckduckgo.com/ip3/shinesmile.com.ico",
     "slug": "shine-smile-shinesmile-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -84,6 +84,7 @@
     "timeMonth": 3289,
     "timeYear": 3267,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-04-05": 38,
       "2023-03-31": 37
     }
