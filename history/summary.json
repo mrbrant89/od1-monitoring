@@ -13,7 +13,7 @@
     "time": 2804,
     "timeDay": 3200,
     "timeWeek": 3698,
-    "timeMonth": 3500,
+    "timeMonth": 3469,
     "timeYear": 2804,
     "dailyMinutesDown": {
       "2023-05-11": 35,
@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinesmile.com.ico",
     "slug": "shine-smile-shinesmile-com",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 3248,
     "timeDay": 2722,
     "timeWeek": 3152,
@@ -343,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/2therescuellc.com.ico",
     "slug": "2-the-rescue-2therescuellc-com",
     "status": "down",
-    "uptime": "98.61%",
+    "uptime": "98.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.68%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "98.61%",
+    "uptimeWeek": "60.75%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "98.15%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 993,
     "timeMonth": 846,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-06-05": 44,
+      "2023-06-05": 1045,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 31,
@@ -385,9 +385,9 @@
     "url": "https://kzoobjj.net",
     "icon": "https://icons.duckduckgo.com/ip3/kzoobjj.net.ico",
     "slug": "kzoo-bjj-kzoobjj-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -396,6 +396,8 @@
     "timeWeek": 1396,
     "timeMonth": 1329,
     "timeYear": 1432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   }
 ]
