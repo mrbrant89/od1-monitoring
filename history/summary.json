@@ -57,19 +57,19 @@
     "url": "https://ackerman-insurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/ackerman-insurance.com.ico",
     "slug": "ackerman-insurance-ackerman-insurance-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 1585,
-    "timeWeek": 935,
-    "timeMonth": 782,
-    "timeYear": 679,
+    "time": 699,
+    "timeDay": 2389,
+    "timeWeek": 1360,
+    "timeMonth": 916,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-08-31": 1
+      "2023-08-31": 10
     }
   },
   {
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2023-08-31": 1419,
+      "2023-08-31": 1429,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -191,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-08-31": 1419,
+      "2023-08-31": 1429,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-08-31": 1419,
+      "2023-08-31": 1429,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
