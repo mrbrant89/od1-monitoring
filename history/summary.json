@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2023-10-04": 1408,
+      "2023-10-04": 1417,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -223,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-10-04": 1408,
+      "2023-10-04": 1417,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -590,7 +590,7 @@
     "timeMonth": 0,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-10-04": 1408,
+      "2023-10-04": 1417,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -742,19 +742,19 @@
     "url": "https://kzoobjj.net",
     "icon": "https://icons.duckduckgo.com/ip3/kzoobjj.net.ico",
     "slug": "kzoo-bjj-kzoobjj-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1409,
-    "timeDay": 1751,
-    "timeWeek": 1469,
-    "timeMonth": 1500,
-    "timeYear": 1409,
+    "time": 1410,
+    "timeDay": 1743,
+    "timeWeek": 1502,
+    "timeMonth": 1508,
+    "timeYear": 1410,
     "dailyMinutesDown": {
-      "2023-10-04": 1
+      "2023-10-04": 9
     }
   }
 ]
