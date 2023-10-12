@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2023-10-12": 177,
+      "2023-10-12": 195,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -231,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-10-12": 177,
+      "2023-10-12": 195,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -607,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-10-12": 177,
+      "2023-10-12": 195,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
@@ -749,19 +749,19 @@
     "url": "https://brendanburch9.com",
     "icon": "https://icons.duckduckgo.com/ip3/brendanburch9.com.ico",
     "slug": "brendan-burch-brendanburch9-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 853,
-    "timeDay": 1100,
-    "timeWeek": 957,
+    "timeDay": 1053,
+    "timeWeek": 948,
     "timeMonth": 880,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2023-10-12": 0,
+      "2023-10-12": 18,
       "2023-10-11": 20
     }
   },
