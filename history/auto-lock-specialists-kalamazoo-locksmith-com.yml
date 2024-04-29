@@ -1,7 +1,7 @@
 url: https://kalamazoo-locksmith.com
-status: up
-code: 200
-responseTime: 1909
-lastUpdated: 2024-04-28T23:11:00.414Z
+status: down
+code: 503
+responseTime: 448
+lastUpdated: 2024-04-29T20:51:07.079Z
 startTime: 2023-01-06T06:11:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
