@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1433,
+      "2024-11-02": 34,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -472,8 +473,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -493,7 +493,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1433,
+      "2024-11-02": 34,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -856,8 +857,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -930,18 +930,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulblank.dental.ico",
     "slug": "paul-blank-dental-paulblank-dental",
     "status": "down",
-    "uptime": "85.68%",
+    "uptime": "85.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.02%",
+    "uptimeYear": "74.01%",
     "time": 2166,
     "timeDay": 653,
     "timeWeek": 520,
     "timeMonth": 552,
     "timeYear": 2324,
     "dailyMinutesDown": {
-      "2024-11-01": 1433,
+      "2024-11-02": 34,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -1110,19 +1111,20 @@
     "url": "https://ravenremodelingoflansing.com",
     "icon": "https://icons.duckduckgo.com/ip3/ravenremodelingoflansing.com.ico",
     "slug": "ravens-remodeling-ravenremodelingoflansing-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "98.98%",
-    "time": 2562,
-    "timeDay": 4265,
-    "timeWeek": 4182,
-    "timeMonth": 4557,
-    "timeYear": 2861,
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "98.97%",
+    "time": 2574,
+    "timeDay": 5518,
+    "timeWeek": 4441,
+    "timeMonth": 4614,
+    "timeYear": 2872,
     "dailyMinutesDown": {
-      "2024-11-01": 1,
+      "2024-11-02": 33,
+      "2024-11-01": 8,
       "2024-10-30": 16,
       "2024-10-28": 92,
       "2024-08-11": 34,
@@ -1234,7 +1236,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.02%",
+    "uptimeYear": "31.03%",
     "time": 231,
     "timeDay": 145,
     "timeWeek": 273,
@@ -1491,8 +1493,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
