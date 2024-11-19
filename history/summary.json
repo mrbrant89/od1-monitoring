@@ -110,7 +110,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-18": 1394,
+      "2024-11-19": 51,
+      "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -473,8 +474,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -494,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-18": 1394,
+      "2024-11-19": 51,
+      "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -857,8 +858,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -886,17 +886,16 @@
     "slug": "dependable-lp-gas-dependablelpgas-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.61%",
     "time": 1754,
     "timeDay": 9036,
     "timeWeek": 3847,
     "timeMonth": 2930,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2024-11-18": 5,
       "2024-08-11": 39,
       "2024-06-30": 30,
       "2024-05-19": 22,
@@ -932,18 +931,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulblank.dental.ico",
     "slug": "paul-blank-dental-paulblank-dental",
     "status": "down",
-    "uptime": "83.55%",
+    "uptime": "83.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.37%",
+    "uptimeYear": "69.35%",
     "time": 2133,
     "timeDay": 588,
     "timeWeek": 674,
     "timeMonth": 574,
     "timeYear": 2253,
     "dailyMinutesDown": {
-      "2024-11-18": 1394,
+      "2024-11-19": 51,
+      "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1233,7 +1233,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 4112,
-    "timeDay": 6601,
+    "timeDay": 6305,
     "timeWeek": 6563,
     "timeMonth": 6253,
     "timeYear": 4492,
@@ -1251,13 +1251,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/2therescuellc.com.ico",
     "slug": "2-the-rescue-2therescuellc-com",
     "status": "up",
-    "uptime": "40.78%",
+    "uptime": "40.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "35.64%",
+    "uptimeYear": "35.66%",
     "time": 219,
-    "timeDay": 164,
+    "timeDay": 83,
     "timeWeek": 126,
     "timeMonth": 174,
     "timeYear": 219,
@@ -1496,8 +1496,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -1512,7 +1511,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1446,
-    "timeDay": 2246,
+    "timeDay": 2130,
     "timeWeek": 2272,
     "timeMonth": 2279,
     "timeYear": 1598,
@@ -1535,7 +1534,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2163,
-    "timeDay": 3364,
+    "timeDay": 3119,
     "timeWeek": 3321,
     "timeMonth": 3225,
     "timeYear": 2341,
