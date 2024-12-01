@@ -13,7 +13,7 @@
     "time": 3439,
     "timeDay": 3387,
     "timeWeek": 3740,
-    "timeMonth": 3843,
+    "timeMonth": 3833,
     "timeYear": 3506,
     "dailyMinutesDown": {
       "2024-11-27": 22,
@@ -54,7 +54,7 @@
     "time": 2569,
     "timeDay": 1539,
     "timeWeek": 2250,
-    "timeMonth": 2935,
+    "timeMonth": 2913,
     "timeYear": 2662,
     "dailyMinutesDown": {
       "2024-09-28": 19,
@@ -78,7 +78,7 @@
     "time": 748,
     "timeDay": 379,
     "timeWeek": 549,
-    "timeMonth": 649,
+    "timeMonth": 637,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2024-11-27": 21,
@@ -101,10 +101,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinesmile.com.ico",
     "slug": "shine-smile-shinesmile-com",
     "status": "down",
-    "uptime": "22.80%",
+    "uptime": "22.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-30": 1436,
+      "2024-12-01": 61,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -475,8 +476,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -488,7 +488,7 @@
     "uptime": "22.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -496,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-30": 1436,
+      "2024-12-01": 61,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -859,8 +860,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -877,7 +877,7 @@
     "time": 1907,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 401,
+    "timeMonth": 393,
     "timeYear": 1806,
     "dailyMinutesDown": {}
   },
@@ -895,7 +895,7 @@
     "time": 1795,
     "timeDay": 2564,
     "timeWeek": 2714,
-    "timeMonth": 2942,
+    "timeMonth": 2946,
     "timeYear": 1979,
     "dailyMinutesDown": {
       "2024-08-11": 39,
@@ -923,7 +923,7 @@
     "time": 1468,
     "timeDay": 326,
     "timeWeek": 336,
-    "timeMonth": 380,
+    "timeMonth": 375,
     "timeYear": 1479,
     "dailyMinutesDown": {}
   },
@@ -933,18 +933,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulblank.dental.ico",
     "slug": "paul-blank-dental-paulblank-dental",
     "status": "down",
-    "uptime": "82.10%",
+    "uptime": "82.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "66.07%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "66.06%",
     "time": 2113,
     "timeDay": 484,
     "timeWeek": 483,
-    "timeMonth": 581,
+    "timeMonth": 586,
     "timeYear": 2198,
     "dailyMinutesDown": {
-      "2024-11-30": 1436,
+      "2024-12-01": 61,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1078,17 +1079,17 @@
     "slug": "auto-lock-specialists-kalamazoo-locksmith-com",
     "status": "up",
     "uptime": "98.10%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "86.51%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "96.47%",
     "time": 2361,
     "timeDay": 316,
     "timeWeek": 318,
-    "timeMonth": 405,
+    "timeMonth": 400,
     "timeYear": 2480,
     "dailyMinutesDown": {
-      "2024-11-30": 205,
+      "2024-11-30": 195,
       "2024-11-27": 32,
       "2024-10-05": 80,
       "2024-10-04": 101,
@@ -1130,7 +1131,7 @@
     "time": 992,
     "timeDay": 653,
     "timeWeek": 794,
-    "timeMonth": 861,
+    "timeMonth": 843,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2024-08-11": 35,
@@ -1153,7 +1154,7 @@
     "time": 2746,
     "timeDay": 3764,
     "timeWeek": 3995,
-    "timeMonth": 4323,
+    "timeMonth": 4320,
     "timeYear": 3086,
     "dailyMinutesDown": {
       "2024-11-05": 25,
@@ -1184,7 +1185,7 @@
     "time": 455,
     "timeDay": 292,
     "timeWeek": 417,
-    "timeMonth": 546,
+    "timeMonth": 532,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-08-11": 33,
@@ -1201,12 +1202,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 2228,
     "timeDay": 3042,
     "timeWeek": 3285,
-    "timeMonth": 3294,
+    "timeMonth": 3299,
     "timeYear": 2357,
     "dailyMinutesDown": {
       "2024-11-28": 31,
@@ -1233,7 +1234,7 @@
     "time": 3360,
     "timeDay": 4774,
     "timeWeek": 4829,
-    "timeMonth": 4877,
+    "timeMonth": 4870,
     "timeYear": 3672,
     "dailyMinutesDown": {}
   },
@@ -1251,7 +1252,7 @@
     "time": 4179,
     "timeDay": 5827,
     "timeWeek": 6145,
-    "timeMonth": 6263,
+    "timeMonth": 6254,
     "timeYear": 4616,
     "dailyMinutesDown": {
       "2024-08-11": 32,
@@ -1271,11 +1272,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "38.93%",
+    "uptimeYear": "38.95%",
     "time": 212,
     "timeDay": 76,
     "timeWeek": 104,
-    "timeMonth": 138,
+    "timeMonth": 136,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-11-13": 190,
@@ -1500,8 +1501,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -1518,7 +1518,7 @@
     "time": 1482,
     "timeDay": 3313,
     "timeWeek": 2368,
-    "timeMonth": 2308,
+    "timeMonth": 2310,
     "timeYear": 1645,
     "dailyMinutesDown": {
       "2024-10-03": 23,
@@ -1541,7 +1541,7 @@
     "time": 2204,
     "timeDay": 3107,
     "timeWeek": 3326,
-    "timeMonth": 3249,
+    "timeMonth": 3232,
     "timeYear": 2401,
     "dailyMinutesDown": {
       "2024-10-03": 23,
