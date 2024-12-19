@@ -9,39 +9,20 @@ sites:
     url: https://yourvoiceintrial.com
   - name: Ackerman Insurance [ackerman-insurance.com]
     url: https://ackerman-insurance.com
-  - name: Shine Smile [shinesmile.com]
-    url: https://shinesmile.com
-  - name: Spa (Shine Smile) [spa.shinesmile.com]
-    url: https://spa.shinesmile.com
-  - name: No Limit Contracting & Design [nolimitcontractinganddesign.com]
-    url: https://nolimitcontractinganddesign.com
   - name: Dependable LP Gas [dependablelpgas.com]
     url: https://www.dependablelpgas.com
-  - name: Auto Lock Specialists LLC [grandrapids-locksmith.com]
-    url: https://grandrapids-locksmith.com
-  - name: Paul Blank Dental [paulblank.dental]
-    url: https://paulblank.dental
-  - name: Auto Lock Specialists [kalamazoo-locksmith.com]
-    url: https://kalamazoo-locksmith.com
   - name: Jot & Tittle Concrete [jotandtittleconcrete.com]
     url: https://jotandtittleconcrete.com
   - name: Ravens Remodeling [ravenremodelingoflansing.com]
     url: https://ravenremodelingoflansing.com
   - name: Tier 1 Digital [tier1digital.com]
     url: https://tier1digital.com
-  - name: A Bail Co [abailco.com]
-    url: https://abailco.com
   - name: Carlson Gracie Grand Rapids [carlsongraciegrandrapids.com]
     url: https://carlsongraciegrandrapids.com
   - name: Arctic Training Center [atcbjj.fitness]
     url: https://atcbjj.fitness
-  - name: 2 The Rescue [2therescuellc.com]
-    url: https://2therescuellc.com
-  - name: Brendan Burch [brendanburch9.com]
-    url: https://brendanburch9.com
-  - name: Kzoo BJJ [kzoobjj.net]
-    url: https://kzoobjj.net  
-
+  - name: Michigan Solar Pros [misolarpros.com]
+    url: https://misolarpros.com
     
     
 status-website:
