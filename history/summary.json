@@ -117,8 +117,8 @@
     "slug": "dependable-lp-gas-dependablelpgas-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.89%",
     "time": 3012,
@@ -127,7 +127,6 @@
     "timeMonth": 3512,
     "timeYear": 3419,
     "dailyMinutesDown": {
-      "2025-07-29": 1,
       "2025-07-26": 21,
       "2025-07-25": 29,
       "2025-07-24": 25,
